@@ -10,7 +10,7 @@ Este proyecto contiene una aplicación completa que conecta un frontend hecho en
 angular-mongo-learning/
 │
 ├── backend/              → API REST con Express y Mongoose
-├── frontend-LEEME.txt    → Instrucciones para crear el frontend Angular
+├── frontend-app/         → API REST con Express y Mongoose
 └── README.md             → Este archivo
 ```
 
