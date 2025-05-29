@@ -64,4 +64,4 @@ Abre en el navegador: `http://localhost:4200`
 
 ## 🧠 Autor
 
-Generado automáticamente con ayuda de ChatGPT (OpenAI).
+Generado con ayuda de ChatGPT (OpenAI).
