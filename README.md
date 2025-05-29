@@ -40,26 +40,14 @@ El backend estará disponible en: `http://localhost:3000/api/items`
 
 ---
 
-## 💻 Cómo crear el frontend (Angular)
+## 💻 Cómo ejecutar el frontend (Angular)
 
 Debido a limitaciones del entorno, deberás generar el frontend con Angular CLI por separado:
 
-1. Desde la raíz del proyecto, corre:
+1. Ejecuta el frontend:
 
 ```bash
-ng new frontend --standalone --routing=false --style=css
-```
-
-2. Copia dentro de la carpeta `frontend/` los archivos de componentes y servicios que te proporcioné en el chat:
-   - `app.component.ts`
-   - `components/item-form/item-form.component.ts`
-   - `components/item-list/item-list.component.ts`
-   - `services/item.service.ts`
-
-3. Ejecuta el frontend:
-
-```bash
-cd frontend
+cd frontend-app
 ng serve
 ```
 
